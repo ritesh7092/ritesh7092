@@ -1,3 +1,9 @@
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ritesh7092&color=58a6ff&style=flat-square&label=Profile+Views)
+
+</div>
+
 # Hi 👋, I'm Ritesh Raj Tiwari
 
 🎓 B.Tech CSE @ IIIT Bhagalpur  
@@ -62,7 +68,39 @@
 
 ---
 
-## 🏆 Achievements
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ritesh7092&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh7092&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ritesh7092&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritesh7092/ritesh7092/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritesh7092/ritesh7092/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ritesh7092/ritesh7092/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
 
 - 🥇 Codeforces **Specialist (1400+)**
 - 🥈 LeetCode **1850+** rating
