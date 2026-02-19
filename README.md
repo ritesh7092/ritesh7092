@@ -1,9 +1,3 @@
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=ritesh7092&color=58a6ff&style=flat-square&label=Profile+Views)
-
-</div>
-
 # Hi 👋, I'm Ritesh Raj Tiwari
 
 🎓 B.Tech CSE @ IIIT Bhagalpur  
@@ -122,4 +116,10 @@
 
 ---
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ritesh7092&color=58a6ff&style=flat-square&label=Profile+Views)
+
 ⭐ *If you find my work interesting, consider starring my repositories!*
+
+</div>
